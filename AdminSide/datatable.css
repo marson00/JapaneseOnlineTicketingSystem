@@ -1,0 +1,10 @@
+
+/*show entries dropdown - set to black*/
+div.dataTables_length select {
+    color: white !important;
+    background-color: black !important;
+}
+/*change filter style - set to white*/
+.dataTables_wrapper .dataTables_filter input {
+    color: white !important;
+}

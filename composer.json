@@ -1,0 +1,14 @@
+{
+    "name": "vendor/japanese-online-ticketing-system",
+    "description": "Description of project JapaneseOnlineTicketingSystem.",
+    "authors": [
+        {
+            "name": "User",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^8.0",
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}

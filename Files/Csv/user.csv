@@ -1,0 +1,6 @@
+Id,Username,Email,Phone,Status,Role,"Created By","Updated by"
+1,admin,admin@gmail.com,,Active,Admin,"admin at 2023-04-14 21:28:23","null at null"
+2,customer1,cust1@gmail.com,,Active,Customer,"admin at 2023-04-14 21:28:23","null at null"
+3,jiale1234,limchialert@gmail.com,,Active,Customer,"register at 2023-04-15 12:06:12","null at null"
+4,tester1,test@gmail.com,011-1111111,Active,Customer,"admin at 2023-04-16 21:49:15","null at null"
+5,tllee1234,tllee2687@gmail.com,011-57568993,Active,Customer,"admin at 2023-04-16 21:50:13","null at null"

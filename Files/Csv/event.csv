@@ -1,0 +1,9 @@
+Id,"Event Name",Image,Capacity,"Quantity Left",Price,"Start Date","End Date",Category,Status
+1,Demo,art1.jpg,10,10,15,04/24/2023,04/28/2023,"Performing Arts",Active
+2,Halo,art2.jpg,20,20,20,04/25/2023,04/29/2023,"Performing Arts",Active
+3,AlohaTest,art1.jpg,35,35,15,04/30/2023,05/02/2023,"Performing Arts",Active
+4,dsadsada,kid2.jpg,10,10,5,04/26/2023,04/30/2023,"Performing Arts",Active
+5,bvcbcbcvb,gallery1.jpg,60,60,6,04/28/2023,04/30/2023,"Performing Arts",Active
+6,jhljljkljklkjl,kid1.png,10,10,6,04/28/2023,04/30/2023,"Performing Arts",Active
+7,hhjfdshfjkshdjhnxnccx,art3.jpg,70,70,49,04/25/2023,05/05/2023,"Kids & Family",Active
+8,asfsfsfwtyfg,kid2.jpg,25,25,250,04/29/2023,05/01/2023,"Kids & Family",Active

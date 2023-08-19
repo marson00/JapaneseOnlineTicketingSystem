@@ -1,0 +1,6 @@
+Id,Event,Quantity,"Total Price",User,"Ordered Date",Card
+1,Demo,5,75,customer1,"2023-04-14 21:31:25",visa
+2,Demo,5,75,customer1,"2023-04-15 13:07:59",visa
+7,Demo,5,2500,tllee1234,"2023-04-16 21:56:25",master
+8,Demo,3,1500,tllee1234,"2023-04-16 21:57:04",master
+9,Demo,2,1000,customer1,"2023-04-16 21:58:02",visa
